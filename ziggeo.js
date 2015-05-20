@@ -4,7 +4,7 @@ script.setAttribute('src', 'https://assets.ziggeo.com/js/ziggeo-jquery-json2-bet
 
 var stylesheet = document.createElement('link');
 stylesheet.setAttribute('rel', 'stylesheet');
-stylesheet.setAttribute('src', 'https://assets.ziggeo.com/css/ziggeo-betajs-player.min.css');
+stylesheet.setAttribute('href', 'https://assets.ziggeo.com/css/ziggeo-betajs-player.min.css');
 
 document.getElementsByTagName('head')[0].appendChild(script);
 document.getElementsByTagName('head')[0].appendChild(stylesheet);
