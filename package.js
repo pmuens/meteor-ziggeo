@@ -1,7 +1,7 @@
 Package.describe({
   name: 'goltfisch:ziggeo',
   summary: 'Ziggeo library for Meteor',
-  version: '0.1.2',
+  version: '0.1.3',
   git: 'https://github.com/goltfisch/meteor-ziggeo.git'
 });
 
